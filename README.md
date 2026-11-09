@@ -58,7 +58,7 @@
 <table>
   <tr><th align="left" width="34%">🛡️ MAIN CLASS</th><td>Java Full-Stack Developer</td></tr>
   <tr><th align="left">📍 LOCATION</th><td>Bengaluru, India</td></tr>
-  <tr><th align="left">📜 CURRENT QUEST</th><td>Tech Intern at Futurense Technologies (07/2026 – 10/2026)</td></tr>
+  <tr><th align="left">📜 CURRENT QUEST</th><td>Software Engineer Trainee at Futurense Technologies (07/2026 – 10/2026)</td></tr>
   <tr><th align="left">⚔️ DSA LEVEL</th><td>500+ Problems</td></tr>
   <tr><th align="left">🎓 GUILD HALL</th><td>MCA, Amity University (8.6 CGPA)</td></tr>
   <tr><th align="left">🎯 CURRENT FOCUS</th><td>Spring Boot + System Design + AI</td></tr>
